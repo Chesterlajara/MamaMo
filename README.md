@@ -1,1 +1,1 @@
-# MamaMo
+# MamaMo: Food Manager
